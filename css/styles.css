@@ -1,0 +1,20 @@
+.header{
+    background-color: #d3d3d3;
+}
+.neader-navigation{
+    color: #000000;
+}
+.neader-navigation:hover,
+.neader-navigation:focus{
+    color: #303030;
+}
+.header-auth{
+    color: #000000;
+}
+.header-auth:hover,
+.header-auth:focus{
+    color: #303030; 
+}
+.footer{
+    background-color: #a9a9a9;
+}
