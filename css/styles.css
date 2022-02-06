@@ -34,3 +34,9 @@
     height:300px;
     object-fit:cover;
  }
+ .footer-auth{
+    color: #000000;
+}
+.footer-auth:hover,
+.footer-auth:focus{
+    color: #303030; 
